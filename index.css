@@ -1,0 +1,24 @@
+html{
+   background-image: linear-gradient(lightsteelblue,white);
+    font-family:cursive;
+    color:black;
+}
+
+
+
+
+
+.container{
+    padding: 10%;
+    overflow: hidden;
+    text-align: center;
+    color: black;
+}
+
+.btn{
+    color: black;
+    text-decoration:solid;
+    padding: 1%;
+    background-color: whitesmoke;
+    border:1px solid black;
+}
